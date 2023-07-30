@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "64b4c9dbe06a67e77771746e"
+  },
+  "id": 1,
+  "first_name": "Javier",
+  "last_name": "Eschweiler",
+  "email": "javier@platzi.com"
+},
+{
+  "_id": {
+    "$oid": "64b4c9e4e06a67e777717470"
+  },
+  "id": 2,
+  "first_name": "Juan",
+  "last_name": "Palmer",
+  "email": "juan@platzi.com"
+},
+{
+  "_id": {
+    "$oid": "64b4c9eae06a67e777717472"
+  },
+  "id": 3,
+  "first_name": "Ana",
+  "last_name": "Smith",
+  "email": "ana@platzi.com"
+}]

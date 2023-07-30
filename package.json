@@ -1,0 +1,21 @@
+{
+  "name": "platzicypressbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.1",
+    "dotenv": "^16.3.1",
+    "json-server": "^0.17.3",
+    "mongodb": "^5.7.0",
+    "mysql2": "^3.5.1",
+    "prettier": "^2.8.8"
+  }
+}
